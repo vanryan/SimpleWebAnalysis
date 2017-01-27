@@ -1,6 +1,6 @@
 # Simple Web Analysis
 
-A little web analytics in Java, based on a given Apache access.log file, provides the following metrics:
+A basic web analytics tool in Java, based on a given Apache "access.log" file, providing the following metrics:
 
     unique visitors
     page views
@@ -10,4 +10,4 @@ A little web analytics in Java, based on a given Apache access.log file, provide
     bounce rate
     percentage of new visits
 
-About Web Analytics Metrics, check Google Analytics and [Web Analytics Standards: 26 New Metrics Definitions](http://www.kaushik.net/avinash/web-analytics-standards-26-new-metrics-definitions/).
+About web analytics metrics, please check out Google Analytics and [Web Analytics Standards: 26 New Metrics Definitions](http://www.kaushik.net/avinash/web-analytics-standards-26-new-metrics-definitions/).
